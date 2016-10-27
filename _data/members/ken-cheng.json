@@ -1,0 +1,31 @@
+{
+    "name": "Ken Cheng",
+    "year": 2019,
+    "college": "Timothy Dwight",
+    "major": "Computer Science",
+    "picture": "https://graph.facebook.com/100000762314918/picture?width=400&height=400",
+    "skills": [
+        "Python", "C", "C++", "Swift", "OpenCV", "Phoenix"
+    ],
+    "experience": [
+        {
+            "title": "CPSC201 Peer Tutor",
+            "time": "2016",
+            "detail": "Host office hours weekly and teach CPSC201 students",
+            "tags": ["Teaching", "Scheme Programming Language"]
+        },
+    ],
+    "extracurriculars": [
+        {
+            "title": "Yale Men's Volleyball",
+            "time": "2016"
+        },
+    ],
+    "links": {
+        "github": "https://github.com/almighty-ken",
+        "facebook": "https://www.facebook.com/AlmightyKen"
+    },
+    "available": true,
+    "bio": "I am a sophomore CS major. My interests include coding, volleyball (I play on the school team), tennis, and cooking. I spent some time doing computer vision in high school, and I work in the Social Robotics Lab at Yale, alongside TAing CS classes. In my free time, I like to explore new realms of CS that I'm not yet familiar with.",
+    "smallBio": "A coder that is always down to challenge himself and try something new!"
+}
